@@ -10,3 +10,6 @@ A minimal wallpaper pack for any desktop. All wallpapers are 1920x1080. If you w
 ![cropped-1920-1080-954241](https://user-images.githubusercontent.com/98992380/185238926-d547105f-3b48-4327-bb39-6867ab92e4f5.jpg)
 ![cropped-1920-1080-1017992](https://user-images.githubusercontent.com/98992380/185238932-e5416c52-6f27-4fff-84bb-4d18fb92d2d1.jpg)
 ![duck](https://user-images.githubusercontent.com/98992380/185238937-a7e16cf5-1a41-4e30-bca5-01f91cb24809.jpg)
+
+
+If you want to install using git, use `git clone https://github.com/SawyerRuch/minimal-wallpaper-pack/`
